@@ -1,0 +1,19 @@
+{
+  "name": "afteroffice",
+  "version": "1.0.0",
+  "description": "untuk after office day 3",
+  "license": "ISC",
+  "author": "aulia rizqi",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chai": "^6.2.2",
+    "cypress": "^16.0.0",
+    "dotenv": "^17.4.2",
+    "mocha": "^11.8.0",
+    "supertest": "^7.2.2"
+  }
+}
